@@ -1,0 +1,1124 @@
+/*Index page
+*
+*/
+
+body{
+    background-color: rgb(98, 97, 97);
+}
+
+.center{
+    color: #F6E3BA;
+}
+
+body h1{
+    margin-right: 10%;
+    margin-top: -8px;
+    font-family: 'Pirata One';
+}
+
+body h2{
+    margin-right: 10%;
+    font-family: cursive;
+}
+
+header{
+    text-align: center;
+}
+
+nav{
+    border: 3px solid black;
+    background-color: silver;
+    text-align: center;
+}
+
+nav h1{
+    color: red;
+    text-align: center;
+}
+
+nav li {
+    display: inline;
+    font-weight: bold;
+    display: left;
+    font-size: 25px;
+    color:#0492C2;
+    margin-left: 60px;
+    margin-right: 60px;
+    
+}
+
+nav li a{
+    color: rgb(155, 35, 35);
+}
+
+nav li a:hover {
+    background-color:palevioletred;
+    color:black;
+}
+
+.indexmain {
+    width: 68%;
+    float: left;
+    margin-top: 15px;
+    text-align: center;
+    background-color: silver;
+    border: solid black;
+    margin-bottom: 2%;
+}
+main h2{
+    padding-left: 80px;
+}
+
+main h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p{
+    text-align: justify;
+    margin:12px;
+}
+
+.Reference{
+    font-style: italic;
+    float: left;
+}
+
+aside {
+    float: right;
+    width: 31%;
+    text-align:justify
+}
+
+aside h2{
+    text-align: center;
+    font-size: larger;
+    background-color: silver;
+    border: 3px solid black;
+    padding: 5px;
+    margin-left: 8%;
+}
+
+aside section{
+    text-align: center;
+    font-size:x-large;
+    font-style: bold;
+    color: black;
+    border: 3px solid black;
+    background-color: silver;
+    margin-top: 1%;
+    padding-bottom: 5%;
+}
+
+#Home {
+    margin-right: 40px;
+    width: 90px;
+    height: 100px;
+    float: left;
+    margin-bottom: 10px;
+    border: 2px rgb(155, 35, 35);
+}
+
+#welcome{
+    width:97%;
+    border: 3px solid black;
+
+}
+
+#cover{
+    width: 97%;
+    height:50%;
+    border: 3px solid black;
+    
+}
+
+#godofwar {
+    width: 80%;
+    height: 5%;
+    border: 3px solid black;
+    margin-top: 7%;
+}
+
+#eldenring {
+    width: 80%;
+    height: 5%;
+    border: 3px solid black;
+    margin-top: 7%;
+}
+
+#lastofus {
+    width: 80%;
+    height: 5%;   
+    border: 3px solid black;
+    margin-top: 7%; 
+}
+
+#skyrim {
+    width: 80%;
+    height: 3%; 
+    border: 3px solid black;
+    margin-top: 7%;
+}
+
+footer{
+    clear: both;
+    color: black;
+    text-align: center;
+    background: silver;
+    border: 3px solid black;
+}
+
+footer h1{
+    text-align: center;
+    margin-left: 10%;
+}
+
+.icons li {
+    margin: 35px;
+    display: inline;
+}
+
+/*Merch Shop CSS
+*
+*
+*
+*/
+
+#merchmain{
+    width: 98.1%;
+    padding: 15px;
+    margin-top: 10px;
+    margin-right: 50px;
+    margin-bottom: 10px;
+    background-color: silver;
+    border: 3px solid black;
+}
+
+#merchmainh2{
+    text-align: center;
+    background-color: black;
+    width: 88%;
+    margin-left:50px;
+    border: 2px solid rgb(177, 7, 7);
+    color: #F6E3BA;
+}
+
+#merchh1{
+    text-align: center;
+    padding-left: 115px;
+}
+
+#merchh3{
+    text-align: center;
+    margin-right: 2%;
+}
+
+.gow li{
+    display: inline;
+    margin: 4%;
+    
+}
+
+.gowlist li{
+    display: inline;
+    margin: 7.2%;
+}
+
+.elden li {
+    display: inline;
+    margin: 4%;
+}
+
+.eldenlist li{
+    display: inline;
+    margin: 7.5%;
+}
+
+.sky li{
+    display: inline;
+    margin: 4%;
+}
+
+.skylist li{
+    display: inline;
+    margin: 8.3%;
+}
+
+.last li{
+    display: inline;
+    margin: 4%;
+}
+
+.lastlist li{
+    display: inline;
+    margin: 7.5%;
+}
+
+#gowtshirt{
+    border: 2px solid black;
+    max-width: 16%;
+}
+
+#gowmug{
+    border: 2px solid black;
+    max-width: 16%;
+}
+
+#gowkey{
+    border: 2px solid black;
+    max-width: 16%;
+}
+
+#gowcontroller{
+    border: 2px solid black;
+    max-width: 40%;
+}
+
+/*Gow Page
+*
+*
+*
+*/
+
+#gowbanner{
+    width: 99.5%;
+    height: auto;
+    border: 3px solid black;
+    margin-top: 10px;
+}
+
+main.godmain{
+    background-color: rgb(98, 97, 97);
+    width: 49.5%;
+    margin: 0px;
+    border: none;
+    float: left;
+}
+
+.story{
+    background-color:silver;
+    border: 3px solid black;
+    text-align: justify;
+    margin-left: -1px;
+    margin-bottom: 2.5%;
+    color: #F6E3BA;
+    margin-top: 1.7%;
+}
+
+.gameplay{
+    background-color:silver;
+    border: 3px solid black;
+    text-align: justify;
+    margin-left: -1px;
+    color: #F6E3BA;
+    margin-bottom: 1.7%;
+}
+
+.gowaside{
+    float: right;
+    width: 49.5%;
+    position: relative;
+}
+
+.characters{
+    background-color:silver;
+    border: 3px solid black;
+    text-align: justify;
+    margin-right: -.1px;
+    color: #F6E3BA;
+    margin-bottom: 2.5%;
+    margin-top: 1.7%;
+    padding: 0;
+}
+
+.reviews{
+    background-color:silver;
+    border: 3px solid black;
+    text-align: justify;
+    margin-right: -.1px;
+    color: #F6E3BA;
+    margin-bottom: 1.7%;
+    padding: 0;
+}
+
+#gowp{
+    font-size: large;
+    margin: 1%;
+    color: black;
+}
+
+#gowh2{
+    border: 3px solid rgb(155, 35, 35);
+    padding: 5px;
+    font-size: 25px;
+    background-color: black;
+}
+
+#Gowh2{
+    border: 3px solid rgb(155, 35, 35);
+    padding: 5px;
+    margin-left: 40px;
+    font-size: 25px;
+    background-color: black;
+}
+
+#gowstory{
+    width: 96%;
+    height: auto;
+    margin-left: 1.5%;
+    border: 3px solid black;
+}
+
+#gowcombat{
+    width: 96%;
+    height: auto;
+    margin-left: 1.5%;
+    border: 3px solid black;
+}
+
+#gowcharacters{
+    width: 96%;
+    height: auto;
+    margin-left: 1.5%;
+    border: 3px solid black;
+}
+
+#gowreview{
+    width: 96%;
+    height: auto;
+    margin-left: 1.5%;
+    border: 3px solid black;
+}
+
+/*Elden Ring
+*
+*
+*/
+
+#eldenbanner{
+    width: 99.7%;
+    height: 380px;
+    margin-top: .5%;
+    border: 3px solid #bb4500;
+}
+
+.eldenmain{
+    background-color: rgb(98, 97, 97);
+    width: 49.5%;
+    border: none;
+    float: left;
+}
+
+.eldenstory{
+    background-color: black;
+    border: 3px solid #bb4500;
+    text-align: justify;
+    margin-left: -1px;
+    color: rgb(233, 182, 15);
+    margin-bottom: 2.5%;
+    margin-top: 1.7%;
+}
+
+.eldengameplay{
+    background-color: black;
+    border: 3px solid #bb4500;
+    text-align: justify;
+    margin-left: -1px;
+    margin-bottom: 1.7%;
+    color: rgb(233, 182, 15);
+}
+
+.eldenaside{
+    float: right;
+    width: 49.5%;
+    position: relative;
+}
+
+.eldencharacters{
+    background-color: black;
+    border: 3px solid #bb4500;
+    text-align: justify;
+    margin-right: -.1px;
+    margin-bottom: 2.5%;
+    margin-top: 1.7%;
+    color: rgb(233, 182, 15);
+    padding: 0;
+}
+
+.eldenreviews{
+    background-color: black;
+    border: 3px solid #bb4500;
+    text-align: justify;
+    margin-right: -.1px;
+    margin-bottom: 1.7%;
+    color: rgb(233, 182, 15);
+    padding: 0;
+}
+
+#eldenp{
+    font-size: large;
+    margin: 1%;
+    color: #bb4500;
+}
+
+#eldenh2{
+    border: 3px solid #bb4500;
+    padding: 5px;
+    font-size: 25px;
+    background-color: #ffb300;
+    color: black;
+}
+
+#Eldenh2{
+    border: 3px solid #bb4500;
+    padding: 5px;
+    margin-left: 40px;
+    font-size: 25px;
+    background-color: #ffb300;
+    color: black;
+}
+
+#eldenstory{
+    width: 96%;
+    height: auto;
+    margin-left: 1.5%;
+    border: 3px solid #ffb300;
+}
+
+#eldencombat{
+    width: 96%;
+    height: auto;
+    margin-left: 1.5%;
+    border: 3px solid #ffb300;
+}
+
+#eldencharacters{
+    width: 96%;
+    height: auto;
+    margin-left: 1.5%;
+    border: 3px solid #ffb300;
+}
+
+#eldenreview{
+    width: 96%;
+    height: auto;
+    margin-left: 1.5%;
+    border: 3px solid #ffb300;
+}
+
+/*Skyrim Page
+*
+*
+*/
+
+#skyrimbanner{
+    width: 99.7%;
+    height: 350px;
+    border: 3px solid silver;
+    margin-top: 10px;
+    background-color: black;
+    
+}
+
+.skyrimmain{
+    background-color: rgb(98, 97, 97);
+    width: 49.5%;
+    border: none;
+    float: left;
+}
+
+.skyrimstory{
+    background-color: silver;
+    border: 3px solid black;
+    text-align: justify;
+    margin-left: -1px;
+    margin-bottom: 2.5%;
+    margin-top: 1.7%;
+    color: rgb(233, 182, 15);
+}
+
+.skyrimgameplay{
+    background-color: silver;
+    border: 3px solid black;
+    text-align: justify;
+    margin-left: -1px;
+    margin-bottom: 1.7%;
+    color: rgb(233, 182, 15);
+}
+
+.skyrimaside{
+    float: right;
+    width: 49.5%;
+}
+
+.skyrimcharacters{
+    background-color: silver;
+    border: 3px solid black;
+    text-align: justify;
+    margin-right: -.1px;
+    color: rgb(233, 182, 15);
+    margin-bottom: 2.5%;
+    margin-top: 1.7%;
+    padding: 0;
+}
+
+.skyrimreviews{
+    background-color: silver;
+    border: 3px solid black;
+    text-align: justify;
+    margin-right: -.1px;
+    margin-bottom: 1.7%;
+    color: rgb(233, 182, 15);
+    padding: 0;
+}
+
+#skyrimp{
+    font-size: large;
+    margin: 1%;
+    color: black;
+}
+
+#skyrimh2{
+    border: 3px solid black;
+    padding: 5px;
+    font-size: 25px;
+    background-color: rgb(100, 100, 100);
+    color: rgb(233, 182, 15);
+}
+
+#Skyrimh2{
+    border: 3px solid black;
+    padding: 5px;
+    margin-left: 40px;
+    font-size: 25px;
+    background-color: rgb(100, 100, 100);
+    color: rgb(233, 182, 15);
+}
+
+#skyrimstory{
+    width: 96%;
+    height: auto;
+    margin-left: 1.5%;
+    border: 3px solid black;
+}
+
+#skyrimcombat{
+    width: 96%;
+    height: auto;
+    margin-left: 1.5%;
+    border: 3px solid black;
+}
+
+#skyrimcharacters{
+    width: 96%;
+    height: auto;
+    margin-left: 1.5%;
+    border: 3px solid black;
+}
+
+#skyrimreview{
+    width: 96%;
+    height: auto;
+    margin-left: 1.5%;
+    border: 3px solid black;
+}
+
+/*The Last of Us Page
+*
+*
+*/
+
+#lastbanner{
+    width: 99.5%;
+    height: auto;
+    border: 3px solid #bb4500;
+    margin-top: 10px;
+}
+
+.lastmain{
+    background-color: rgb(98, 97, 97);
+    width: 49.5%;
+    border: none;
+    float: left;
+}
+
+.laststory{
+    background-color: silver;
+    border: 3px solid #bb4500;
+    text-align: justify;
+    margin-left: -.2%;
+    margin-bottom: 2.5%;
+    margin-top: 1.7%;
+    color: #F6E3BA;
+}
+
+.lastgameplay{
+    background-color:silver;
+    border: 3px solid #bb4500;
+    text-align: justify;
+    margin-left: -.2%;
+    margin-bottom: 1.7%;
+    color: #F6E3BA;
+}
+
+.lastaside{
+    float: right;
+    width: 49.5%;
+}
+
+.lastcharacters{
+    background-color:silver;
+    border: 3px solid #bb4500;
+    text-align: justify;
+    margin-right: -.1px;
+    color: #F6E3BA;
+    margin-bottom: 2.5%;
+    margin-top: 1.7%;
+    padding: 0;
+}
+
+.lastreviews{
+    background-color:silver;
+    border: 3px solid #bb4500;
+    text-align: justify;
+    margin-right: -.1px;
+    margin-bottom: 1.7%;
+    color: #F6E3BA;
+    padding: 0;
+}
+
+#lastp{
+    font-size: large;
+    margin: 1%;
+    color: black;
+}
+
+#lasth2{
+    border: 3px solid #bb4500;
+    padding: 5px;
+    font-size: 25px;
+    background-color: black;
+    margin-left: 80px;
+}
+
+#Lasth2{
+    border: 3px solid #bb4500;
+    padding: 5px;
+    margin-left: 80px;
+    font-size: 25px;
+    background-color: black;
+}
+
+#laststory{
+    width: 96%;
+    height: auto;
+    margin-left: 1.5%;
+    border: 3px solid black;
+}
+
+#lastcombat{
+    width: 96%;
+    height: auto;
+    margin-left: 1.5%;
+    border: 3px solid black;
+}
+
+#lastcharacters{
+    width: 96%;
+    height: auto;
+    margin-left: 1.5%;
+    border: 3px solid black;
+}
+
+#lastreview{
+    width: 96%;
+    height: auto;
+    margin-left: 1.5%;
+    border: 3px solid black;
+}
+
+/*Blog Page
+*
+*
+*/
+
+.blogmain{
+    text-align: center;
+}
+
+.titleblog{
+    border: 3px solid black;
+    background-color: silver;
+    width: 97.5%;
+    padding: 1%;
+}
+
+.joshblog{
+    border: 3px solid black;
+    background-color: silver;
+    padding: .5%;
+    float: left;
+    width: 48%;
+    font-size: large;
+    margin-bottom: 2%;
+}
+
+#joshblogpic{
+    width: 99%;
+    border: 3px solid black;
+}
+
+.markblog{
+    border: 3px solid black;
+    background-color: silver;
+    padding: .5%;
+    float: left;
+    width: 48%;
+    font-size: large;
+    margin-bottom: 2%;
+    margin-left: 1%;
+}
+
+#markblogpic{
+    width: 99%;
+    border: 3px solid black;
+}
+
+.megblog{
+    border: 3px solid black;
+    background-color: silver;
+    padding: .5%;
+    float: right;
+    width: 48%;
+    font-size: large;
+    margin-bottom: 2%;
+    margin-left: 1%;
+    margin-right: .2%;
+}
+
+#megblogpic{
+    width: 99%;
+    border: 3px solid black;
+}
+
+.tomblog{
+    border: 3px solid black;
+    background-color: silver;
+    padding: .5%;
+    float: right;
+    width: 48%;
+    font-size: large;
+    margin-bottom: 2%;
+}
+
+#tomblogpic{
+    width: 99%;
+    border: 3px solid black;
+}
+
+/**Contact Us Page
+*
+*
+*
+*
+*/
+
+#contacth2{
+    text-align: center;
+    background-color: silver;
+    border: 3px solid black;
+    padding: .5%;
+    width: 98.7%;
+}
+
+#contacth3{
+    text-align: center;
+    background-color: silver;
+    border: 3px solid black;
+    padding: .5%;
+}
+
+#contactuscover{
+    width: 75%;
+    border: 3px solid black;
+    margin-bottom: .7%;
+    margin-top: .3%;
+}
+
+form{
+    background-color: silver;
+    float: right;
+    width: 20%;
+    padding: 1%;
+    margin: .5%;
+    font-size: x-large;
+    border: 3px solid black;
+    text-align: center;
+}
+
+/**Latest News Page
+*
+*
+*
+*/
+
+#newsh1{
+    text-align: center;
+    border: 3px solid black;
+    background-color: silver;
+    padding: .5%;
+    margin-top: .5%;
+    width: 98.7%;
+}
+
+#gamenewscover{
+    width: 99.8%;
+    border: 3px solid black;
+    margin-top: -1%;
+}
+
+.newsmain{
+    background-color: rgb(100, 100, 100);
+    text-align: center;
+    margin-bottom: .7%;
+}
+
+#d2cover{
+    width: 99.8%;
+    border: 3px solid black;
+    margin-top: -1.2%;
+}
+
+#gtacover{
+    width: 99.8%;
+    border: 3px solid black;
+    margin-top: -1.2%;
+}
+
+#siegecover{
+    width: 99.8%;
+    border: 3px solid black;
+    margin-top: -1.2%;
+}
+
+#warcover{
+    width: 99.8%;
+    border: 3px solid black;
+    margin-top: -1.2%;
+}
+
+#newsh2{
+    text-align: center;
+    border: 2px solid yellow;
+    width: 99%;
+    padding: .5%;
+    color: yellow;
+    background-color: black;
+}
+
+.newsarticle{
+    color: black;
+    background-color: silver;
+    width: 99.6%;
+    padding: .1%;
+    border: 3px solid black;
+}
+
+#newspara{
+    color: black;
+    text-align: center;
+}
+
+/**Deals Page
+*
+*
+*
+*
+*/
+
+#dealscover{
+    width: 99.5%;
+    border: 3px solid black;
+    margin-top: .7%;
+}
+
+#dealsmain{
+    width: 22%;
+    float: left;
+    background-color: silver;
+    border: 3px solid black;
+    padding: .5%;
+    margin-top: .7%;
+    margin-bottom: .7%;
+}
+
+#dealsection{
+    text-align: center;
+}
+
+#psdeals{
+    border: 2px solid yellow;
+    background-color: black;
+    color: yellow;
+    margin: 0;
+    padding: .5%;
+    text-align: center;
+    margin-bottom: 5%;
+}
+
+#fifa23{
+    border: 2px solid black;
+    width: 99%;
+}
+
+#nba23{
+    border: 2px solid black;
+    width: 99%;
+}
+
+#deadspace{
+    border: 2px solid black;
+    width: 99%;
+}
+
+#gotham{
+    border: 2px solid black;
+    width: 99%;
+}
+
+#dealsmain2{
+    width: 22%;
+    float: left;
+    background-color: silver;
+    border: 3px solid black;
+    padding: .5%;
+    margin-top: .7%;
+    margin-bottom: .7%;
+    margin-left: 2%;
+}
+
+#dealsection2{
+    text-align: center;
+}
+
+#xboxdeals{
+    border: 2px solid yellow;
+    background-color: black;
+    color: yellow;
+    margin: 0;
+    padding: .5%;
+    text-align: center;
+    margin-bottom: 5%;
+}
+
+#mw2{
+    border: 2px solid black;
+    width: 99%;
+}
+
+#r6s{
+    border: 2px solid black;
+    width: 99%;
+}
+
+#forza{
+    border: 2px solid black;
+    width: 99%;
+}
+
+#cyber{
+    border: 2px solid black;
+    width: 99%;
+}
+
+#dealsmain3{
+    width: 22%;
+    float: right;
+    background-color: silver;
+    border: 3px solid black;
+    padding: .5%;
+    margin-top: .7%;
+    margin-bottom: .7%;
+    font-size: medium;
+}
+
+#dealsection3{
+    text-align: center;
+    border: none;
+}
+
+#nintendodeals{
+    border: 2px solid yellow;
+    background-color: black;
+    color: yellow;
+    margin: 0;
+    padding: .5%;
+    text-align: center;
+    margin-bottom: 5%;
+}
+
+#doom{
+    border: 2px solid black;
+    width: 99%;
+}
+
+#crashband{
+    border: 2px solid black;
+    width: 99%;
+}
+
+#takestwo{
+    border: 2px solid black;
+    width: 99%;
+}
+
+#sonic{
+    border: 2px solid black;
+    width: 99%;
+}
+
+#dealsmain4{
+    width: 22%;
+    float: right;
+    background-color: silver;
+    border: 3px solid black;
+    padding: .5%;
+    margin-top: .7%;
+    margin-bottom: .7%;
+    margin-right: 2.3%;
+}
+
+#dealsection4{
+    text-align: center;
+    border: none;
+}
+
+#steamdeals{
+    border: 2px solid yellow;
+    background-color: black;
+    color: yellow;
+    margin: 0;
+    padding: .5%;
+    text-align: center;
+    margin-bottom: 5%;
+}
+
+#borderlands{
+    border: 2px solid black;
+    width: 99%;
+}
+
+#elderscrolls{
+    border: 2px solid black;
+    width: 99%;
+}
+
+#hunt{
+    border: 2px solid black;
+    width: 99%;
+}
+
+#battle{
+    border: 2px solid black;
+    width: 99%;
+}
+
